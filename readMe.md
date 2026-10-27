@@ -1,4 +1,4 @@
-#The best github repository out there
+#The Best GitHub repository out there
 This is read me file
 The best ways are
 - Eat
